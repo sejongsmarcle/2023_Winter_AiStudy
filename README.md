@@ -33,7 +33,7 @@
 ## 스터디 계획
 스터디 기간 2023.1.5. ~ 2023.02.22.
 
-- 총 8회차
+- 총 12회차
 - 한 주에 1회차
 - 한 회차는 1부, 2부 나눠서 진행
 - 대략 1부에 1시간 정도
@@ -41,15 +41,15 @@
 
 | 회차 | 날짜 | 팀 |내용, 발표 자료 | 다시보기 |
 | --- | --- | --- | --- | --- |
-| 0 | 01.03.(화)	 |x| [OT 및 가이드](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/0%ED%9A%8C%EC%B0%A8) | [O.T](https://www.youtube.com/watch?v=U7_4oL4c_Wo&list=PLvRUlpIVi9qRoI7iXBLd4zkSkhMPCMz3f&index=1) |
-| 1 | 01.11.(수) |1팀 |[3장 선형회귀](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/1%ED%9A%8C%EC%B0%A8) | [class 1](https://youtu.be/x7U4pfNdtgc) |
-| 2 | 01.18.(수) |2팀 |[4장 경사하강법](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/2%ED%9A%8C%EC%B0%A8) | [class 2](https://www.youtube.com/watch?v=9WpuawbmvO8&list=PLvRUlpIVi9qRoI7iXBLd4zkSkhMPCMz3f&index=3) |
-| 3 | 01.25.(수) |3팀 |[5장 로지스틱 회귀](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/3%ED%9A%8C%EC%B0%A8) | [class 3](https://www.youtube.com/watch?v=_No1IL5cyKI) |
-| 4 | 02.01.(수) |4팀|[6~9장 퍼셉트론과 역전파](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/4%ED%9A%8C%EC%B0%A8) | [class 4](https://www.youtube.com/watch?v=aY8Ww_b5LGk) |
-| 5 | 02.08.(수) |1팀, 3팀 |[10~12장 모델설계와 품종예측](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/5%ED%9A%8C%EC%B0%A8) | [class 5](https://www.youtube.com/watch?v=c69__qo-GtY) |
-| 6 | 02.15.(수) |2팀, 4팀 | [13장~14장 과적합과 베스트모델](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/6%ED%9A%8C%EC%B0%A8) | [class 6](https://www.youtube.com/watch?v=owKtqqA0o2Q&list=PLvRUlpIVi9qRoI7iXBLd4zkSkhMPCMz3f&index=8)  |
-| 7 | 02.22.(수) |1팀, 3팀 | [캐글 실습1](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/7%ED%9A%8C%EC%B0%A8) | [class 7](https://www.youtube.com/watch?v=1z9eiqr0DkY) |
-| 8 | 02.10.(수) |2팀, 4팀 | [캐글 실습2](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/8%ED%9A%8C%EC%B0%A8) | [class 8](https://youtu.be/5zyDT8dPpZs) |
+| 0 | 01.06.(목)	 |x| [OT 및 가이드](https://github.com/sejongsmarcle/2023_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/1%ED%9A%8C%EC%B0%A8) | [O.T](https://www.youtube.com/watch?v=U7_4oL4c_Wo&list=PLvRUlpIVi9qRoI7iXBLd4zkSkhMPCMz3f&index=1) |
+| 1 | 01.10.(월) |1팀 |[3장 선형회귀](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/1%ED%9A%8C%EC%B0%A8) | [class 1](https://youtu.be/x7U4pfNdtgc) |
+| 2 | 01.13.(목) |2팀 |[4장 경사하강법](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/2%ED%9A%8C%EC%B0%A8) | [class 2](https://www.youtube.com/watch?v=9WpuawbmvO8&list=PLvRUlpIVi9qRoI7iXBLd4zkSkhMPCMz3f&index=3) |
+| 3 | 01.17.(월) |3팀 |[5장 로지스틱 회귀](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/3%ED%9A%8C%EC%B0%A8) | [class 3](https://www.youtube.com/watch?v=_No1IL5cyKI) |
+| 4 | 01.20.(목) |4팀|[6~9장 퍼셉트론과 역전파](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/4%ED%9A%8C%EC%B0%A8) | [class 4](https://www.youtube.com/watch?v=aY8Ww_b5LGk) |
+| 5 | 01.24.(월) |1팀, 3팀 |[10~12장 모델설계와 품종예측](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/5%ED%9A%8C%EC%B0%A8) | [class 5](https://www.youtube.com/watch?v=c69__qo-GtY) |
+| 6 | 01.27.(목) |2팀, 4팀 | [13장~14장 과적합과 베스트모델](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/6%ED%9A%8C%EC%B0%A8) | [class 6](https://www.youtube.com/watch?v=owKtqqA0o2Q&list=PLvRUlpIVi9qRoI7iXBLd4zkSkhMPCMz3f&index=8)  |
+| 7 | 02.07.(월) |1팀, 3팀 | [캐글 실습1](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/7%ED%9A%8C%EC%B0%A8) | [class 7](https://www.youtube.com/watch?v=1z9eiqr0DkY) |
+| 8 | 02.10.(목) |2팀, 4팀 | [캐글 실습2](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/8%ED%9A%8C%EC%B0%A8) | [class 8](https://youtu.be/5zyDT8dPpZs) |
 | 9 | 02.14.(월) |CNN팀 |[16장 CNN 팀 발표](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/9%ED%9A%8C%EC%B0%A8) | [class 9](https://www.youtube.com/watch?v=cU9n3uTqtqY) |
 | 10 | 02.17.(목) |NLP팀 |[17장 NLP 팀 발표](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/10%ED%9A%8C%EC%B0%A8) | [class 10](https://youtu.be/vy9FFt6KUSY)  |
 | 11 | 02.21.(월) | RNN팀|[18장 RNN 팀 발표](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/11%ED%9A%8C%EC%B0%A8) | [class 11](https://www.youtube.com/watch?v=jnICifz9qV4&list=PLvRUlpIVi9qRoI7iXBLd4zkSkhMPCMz3f&index=12) |
