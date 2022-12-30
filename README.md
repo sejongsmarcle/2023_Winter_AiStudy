@@ -41,7 +41,7 @@
 
 | 회차 | 날짜 | 팀 |내용, 발표 자료 | 다시보기 |
 | --- | --- | --- | --- | --- |
-| 0 | 01.03.(화)	 |x| [OT 및 가이드](https://github.com/sejongsmarcle/2023_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/1%ED%9A%8C%EC%B0%A8) | [O.T](https://www.youtube.com/watch?v=U7_4oL4c_Wo&list=PLvRUlpIVi9qRoI7iXBLd4zkSkhMPCMz3f&index=1) |
+| 0 | 01.03.(화)	 |x| [OT 및 가이드](https://github.com/sejongsmarcle/2023_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/0%ED%9A%8C%EC%B0%A8) | [O.T](https://www.youtube.com/watch?v=U7_4oL4c_Wo&list=PLvRUlpIVi9qRoI7iXBLd4zkSkhMPCMz3f&index=1) |
 | 1 | 01.11.(수) |1팀 |[3장 선형회귀](https://github.com/sejongsmarcle/2023_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/1%ED%9A%8C%EC%B0%A8) | [class 1](https://youtu.be/x7U4pfNdtgc) |
 | 2 | 01.18.(수) |2팀 |[4장 경사하강법](https://github.com/sejongsmarcle/2023_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/2%ED%9A%8C%EC%B0%A8) | [class 2](https://www.youtube.com/watch?v=9WpuawbmvO8&list=PLvRUlpIVi9qRoI7iXBLd4zkSkhMPCMz3f&index=3) |
 | 3 | 01.25.(수) |3팀 |[5장 로지스틱 회귀](https://github.com/sejongsmarcle/2023_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/3%ED%9A%8C%EC%B0%A8) | [class 3](https://www.youtube.com/watch?v=_No1IL5cyKI) |
