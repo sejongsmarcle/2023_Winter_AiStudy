@@ -48,7 +48,7 @@
 | 4 | 02.01.(수) |4팀|[6~9장 퍼셉트론과 역전파](https://github.com/sejongsmarcle/2023_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/4%ED%9A%8C%EC%B0%A8) | [class 4]|
 | 5 | 02.08.(수) |1팀, 3팀 |[10~12장 모델설계와 품종예측](https://github.com/sejongsmarcle/2023_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/5%ED%9A%8C%EC%B0%A8) | [class 5]|
 | 6 | 02.15.(수) |2팀, 4팀 | [13장~14장 과적합과 베스트모델](https://github.com/sejongsmarcle/2023_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/6%ED%9A%8C%EC%B0%A8) | [class 6]|
-| 7 | 02.22.(수) |모두 | [캐글 실습](https://github.com/sejongsmarcle/2023_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/7%ED%9A%8C%EC%B0%A8) | [class 7]|
+| 7 | 02.22.(수) |모두 | [심화 학습(CNN, NLP, RNN, GAN)](https://github.com/sejongsmarcle/2023_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/7%ED%9A%8C%EC%B0%A8) | [class 7]|
 
 ## 팀
 | 1팀 | 2팀 | 3팀 | 4팀 |
