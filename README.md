@@ -69,7 +69,7 @@
 - [2022 Winter AI study](https://github.com/sejongsmarcle/2022_Spring_ArduinoStudy-1)
 - [파이썬 코딩도장](https://dojang.io/course/view.php?id=7)
 - [점프투파이썬](https://wikidocs.net/book/1)
-- [모두의 딥러닝 개정 2판](https://thebook.io/080228/)
+- [모두의 딥러닝 개정 2판](https://thebook.io/080324/)
 - [모두를 위한 딥러닝 시즌1](https://youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
 - [K-MOOC 파이썬으로 배우는 기계학습 입문](http://www.kmooc.kr/courses/course-v1:HGUk+HGU05+2021_T2/course/)
 - [지능기전공학부 3학년 전공필수 수업 **인공지능** 수업자료](https://github.com/sejongresearch/2020.Spring.AI)
