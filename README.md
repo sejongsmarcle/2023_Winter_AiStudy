@@ -1,5 +1,4 @@
-# 2023 스마클 겨울방학 인공지능 기초 스터디
-2023 겨울방학 SMARCLE 인공지능 기초 스터디 레포지토리
+# 2023 SMARCLE 겨울방학 인공지능 기초 스터디
 
 ## 스터디 목표
 - 데이터 분석 스터디에서 학습한 내용 이용하기
@@ -38,7 +37,7 @@
 ## 스터디 계획
 스터디 기간 2023.1.3. ~ 2023.02.22.
 
-- 총 8회차
+- OT 제외하면 총 7회차
 - 한 주에 1회차 (매주 수요일)
 - 1회차에 약 2시간 정도
 
@@ -72,5 +71,3 @@
 - [모두의 딥러닝 개정 2판](https://thebook.io/080324/)
 - [모두를 위한 딥러닝 시즌1](https://youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
 - [K-MOOC 파이썬으로 배우는 기계학습 입문](http://www.kmooc.kr/courses/course-v1:HGUk+HGU05+2021_T2/course/)
-- [지능기전공학부 3학년 전공필수 수업 **인공지능** 수업자료](https://github.com/sejongresearch/2020.Spring.AI)
-
