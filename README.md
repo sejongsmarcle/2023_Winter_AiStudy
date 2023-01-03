@@ -65,7 +65,7 @@
 
 
 ### 참고
-- [2022 Winter AI study](https://github.com/sejongsmarcle/2022_Spring_ArduinoStudy-1)
+- [2022 Winter AI study](https://github.com/sejongsmarcle/2022_Winter_AiStudy)
 - [파이썬 코딩도장](https://dojang.io/course/view.php?id=7)
 - [점프투파이썬](https://wikidocs.net/book/1)
 - [모두의 딥러닝 개정 2판](https://thebook.io/080324/)
